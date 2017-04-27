@@ -1,0 +1,1 @@
+A, 2, Juanito Perez, 1000000.0,L, 2, kasjdksajdks, 15643.0, java, 1, 1,P, 1, superduperprogramador, 22323.0, 
